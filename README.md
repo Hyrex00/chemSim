@@ -1,0 +1,1 @@
+2025 Yılında katıldığımız 2204A yarışması için "FLT3 F691L mutasyonuna karşı ilaç geliştirme ve in silico testleri" adlı projemizin moleküler dinamik simülasyonu dosyalarını githuba koymaya karar verdik. Böylece hem sonrasında yapılacak simülasyon çalışmaları için bir "yardım" reposu olacak, hem sonuçları analiz etmek isteyenler özgürce bakabilir
